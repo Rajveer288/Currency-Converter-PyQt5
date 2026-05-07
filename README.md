@@ -5,6 +5,15 @@ A real-time currency converter desktop application built using PyQt5 and Python.
 This project uses the Frankfurter Exchange Rate API to fetch live currency exchange rates and display converted values instantly through a simple graphical user interface.
 
 ---
+## Preview
+
+<img width="1919" height="1010" alt="Image" src="https://github.com/user-attachments/assets/44d9941e-b458-4b42-bf42-3aa3d917d7b2" />
+
+<img width="1919" height="1004" alt="Image" src="https://github.com/user-attachments/assets/0a860849-1f7c-4fc0-bf33-d479a1c27e10" />
+
+<img width="1919" height="1008" alt="Image" src="https://github.com/user-attachments/assets/ef65a0c8-b89a-4093-acc7-d1fcff50b52a" />
+
+---
 
 ## Features
 
